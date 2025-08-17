@@ -1,6 +1,6 @@
-# Finance Portfolio Management System
+# NeuroVest: Finance Portfolio Management System
 
-A comprehensive portfolio management and analysis platform built with FastAPI backend, React TypeScript frontend, and PostgreSQL database. The system provides real-time stock data, portfolio management, watchlist functionality, and advanced simulation capabilities including Monte Carlo analysis and forecasting.
+A comprehensive portfolio management and research platform built with FastAPI backend, React TypeScript frontend, and PostgreSQL database. The system provides real-time stock data, portfolio management, watchlist functionality, and advanced simulation capabilities including Monte Carlo analysis and forecasting.
 
 ## Tech Stack
 
